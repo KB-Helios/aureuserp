@@ -30,7 +30,7 @@
         "@tailwindcss/typography": "^0.5.9",
         "autoprefixer": "^10.4.20",
         "esbuild": "^0.25.9",
-        "moment": "^2.29.4",
+        "moment": "^2.31.0",
         "moment-timezone": "^0.5.43",
         "postcss": "^8.4.26",
         "prettier": "^3.0.0",
